@@ -12,7 +12,6 @@ tidyverse (dplyr, ggplot2)
 Reproducible reporting with inline statistical results
 
 Laryngectomy report (data quality issue identification + reporting + graphics)
-CTN-0094 report, foun (clinical trial / demographics + modeling + visualization)
  
 What this demonstrates
 
@@ -21,10 +20,10 @@ What this demonstrates
     Key results (counts, p-values, etc.) are inserted using inline R code (no hard-coded values)
     Methods sections document R version and package versions
 
-Files
+Files:
 
     laryngectomy_report.qmd → rendered output: laryngectomy_report.html
 
-Notes
+Notes:
 This project is shared as a portfolio example of reproducible reporting, applied statistical computing, and public-health oriented data analysis in R/Quarto.
 
